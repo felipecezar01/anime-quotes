@@ -6,6 +6,8 @@
 
 ---
 
-![Orochimaru GIF](#) <!-- Adicione o link para o GIF aqui -->
+<div align="center">
+  <img src="./orochimaru.gif" alt="Orochimaru" />
+</div>
 
 ---
